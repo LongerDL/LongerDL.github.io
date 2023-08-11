@@ -26,7 +26,7 @@ export default {
         {
           text: "其他",
           items: [
-            { text: "主页", link: "/guide/other/" },
+            { text: "主页111", link: "/guide/other/" },
             { text: "路由1", link: "/guide/other/one" },
             { text: "路由2", link: "/guide/other/two" },
           ],
