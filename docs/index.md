@@ -16,5 +16,6 @@
 9. 创建 utils 文件夹，封装 storage 工具函数
 
 #### 其他
-[other](/other)
+
+[other](./notes/other.md)
 新增测试内容
