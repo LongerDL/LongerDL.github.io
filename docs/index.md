@@ -1,4 +1,4 @@
-## react 性能优化
+## react 性能优化 22
 
 1. react 内置的 suspense 和 lazy 做路由懒加载
 2. pureComponent，子组件不依赖父组件的数据，父组件重新渲染不会导致子组件重新渲染
