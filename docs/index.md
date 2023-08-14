@@ -22,7 +22,7 @@ features:
   - icon: 🛠️
     title: Enjoy the Vite DX
     details: Instant server start, lightning fast hot updates, and leverage Vite ecosystem plugins.
-  - icon: { src: /assets/logo.svg }
+  - icon: { src: /public/logo.svg }
     title: Enjoy the Vite DX
     details: Use Vue syntax and components directly in markdown, or build custom themes with Vue.
   - icon: 🚀

@@ -5,7 +5,7 @@
     "vue": {
       "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+vue@3.3.4/node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "3f5a4190",
+      "fileHash": "70efbba8",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
@@ -17,7 +17,7 @@
     "@theme/index": {
       "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+vitepress@1.0.0-rc.4_@algolia+client-search@4.19.1_search-insights@2.7.0/node_modules/vitepress/dist/client/theme-default/index.js",
       "file": "@theme_index.js",
-      "fileHash": "81cfdcc3",
+      "fileHash": "c697d3bc",
       "needsInterop": false
     }
   },
