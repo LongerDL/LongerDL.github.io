@@ -3,14 +3,14 @@ export default {
     logo: "https://vitepress.dev/vitepress-logo-mini.svg",
     siteTitle: "vitePress",
     nav: [
-      { text: "API", link: "../guide/other/index.md" },
-      { text: "演练场", link: "../guide/other/index.md" },
+      { text: "API", link: "/guide/other/" },
+      { text: "演练场", link: "/guide/start/" },
       {
         text: "文档",
         items: [
-          { text: "文档1", link: "../guide/other/index.md" },
-          { text: "文档2", link: "../guide/other/one.md" },
-          { text: "文档3", link: "../guide/other/two.md" },
+          { text: "文档1", link: "/guide/other/" },
+          { text: "文档2", link: "/guide/other/one.md" },
+          { text: "文档3", link: "/guide/other/two.md" },
         ],
       },
     ],
