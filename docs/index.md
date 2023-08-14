@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /guide/other/
+      link: /guide/start/
     - theme: alt
       text: View on GitHub
       link: https://github.com/LongerDL/LongerDL.github.io
