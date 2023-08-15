@@ -1,7 +1,7 @@
 # Other
 
 用于测试图片 6666
-再发布一次
+再发布一次部署
 
 ![1691720619251](/public/test.png)
 如果提交不了就执行该命令：git config --global http.sslVerify "false"
